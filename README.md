@@ -2,7 +2,7 @@
 
 I'm a **.NET full-stack developer** building apps that span **desktop, mobile, and web**, blending **technology, creativity, and personal hobbies**.  
 
-💻 **Tech Stack:** `C#` • `ASP.NET` • `React` • `Entity Framework` • `WinUI 3` • `MAUI` • `Unity` • `SQL` • `SQLite` • `Docker`  
+💻 **Tech Stack:** `C#` • `ASP.NET` • `React` • `WinUI 3` • `MAUI` • `Blazor` • `Entity Framework` • `SQL` • `SQLite` • `Docker`  
 
 ---
 
