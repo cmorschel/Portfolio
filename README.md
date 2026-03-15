@@ -8,7 +8,7 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 
 ---
 
-## 🛠 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Stack | Description | Repository |
 |--------|-------|-------------|------------|
@@ -18,20 +18,36 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 
 ---
 
-## 🎨 Skills & Technologies
+## 🛠 Skills & Technologies
+### 💻 Programming & Frameworks
 
-```text
-C# • ASP.NET • React • Entity Framework • WinUI 3 • MAUI • SQL • SQLite • Docker • GitHub Actions • REST APIs
+C# • ASP.NET Core • React • Entity Framework • WinUI 3 • MAUI • REST APIs
 
-🔹 Full-stack web & desktop development
+### 🏗️ Full-Stack Development: Build web and desktop apps end-to-end, including UI, backend, and database integration
 
-🔹 Cross-platform apps (Windows, Mac, Android, iOS)
+### 📱 Cross-Platform Apps: Design apps that run on Windows, Mac, Android, iOS using MAUI & WinUI 3
 
-🔹 MVVM & clean architecture
+### 🧩 MVVM & Clean Architecture: Structure projects for maintainability, testability, and scalability
 
-🔹 Testing, CI/CD, and DevOps practices
+### 🗄 Databases & Data Management
 
-🌟 Personal Interests & Life
+SQL Server • SQLite • Optional: NoSQL / MongoDB
+
+### 🛢️ Relational & Local Databases: Design efficient schemas, implement CRUD operations, and manage offline storage
+
+### 📊 Data-Driven Features: Build dashboards, stats, and reports for apps like 3D Print Manager & Recipe Book
+
+### ⚙️ DevOps & Tools
+
+Docker • GitHub Actions • Version Control (Git) • CI/CD Pipelines
+
+### 🔄 Automated Builds & Deployment: Set up continuous integration and delivery pipelines
+
+###  Testing & QA: Unit, integration, and UI testing to ensure app stability
+
+### 🛠 Containerization & Workflow Automation: Package apps for consistent deployment environments
+
+##🌟 Personal Interests & Life
 
 When I’m not coding, I enjoy building and creating in all areas of life:
 
