@@ -59,14 +59,14 @@ Package applications for consistent environments and easier deployment.
 
 When I’m not coding, I enjoy building and creating in other areas of life:
 
-🍞 Baking sourdough bread and experimenting with fermentation
+- 🍞 Baking sourdough bread and experimenting with fermentation
 
-🔥 Smoking and cooking meat low & slow
+- 🔥 Smoking and cooking meat low & slow
 
-🖨 Designing and 3D printing useful objects
+- 🖨 Designing and 3D printing useful objects
 
-🎸 Leading worship, playing guitar, singing, and writing songs
+- 🎸 Leading worship, playing guitar, singing, and writing songs
 
-👨‍👩‍👧‍👦 Proud husband and father of a confident 6-year-old daughter and a superhero 4-year-old son.
+-  Proud husband and father of a confident 6-year-old daughter and a superhero 4-year-old son.
 
 Email: youremail@example.com
