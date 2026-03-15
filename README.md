@@ -69,4 +69,4 @@ When I’m not coding, I enjoy building and creating in other areas of life:
 
 -  Proud husband and father of a confident 6-year-old daughter and a superhero 4-year-old son.
 
-Email: youremail@example.com
+Email: christopher.morschel@gmail.com
