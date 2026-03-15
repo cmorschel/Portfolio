@@ -4,8 +4,6 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 
 💻 **Tech Stack:** `C#` • `ASP.NET` • `React` • `Entity Framework` • `WinUI 3` • `MAUI` • `SQL` • `SQLite` • `Docker`  
 
-🌐 **Live Portfolio:** [coming soon]()  
-
 ---
 
 ## 🚀 Featured Projects
