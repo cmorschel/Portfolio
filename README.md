@@ -44,15 +44,15 @@ Implement dashboards, statistics, and reporting features.
 ---
 ## ⚙️ DevOps & Tools
 
-`Docker` • `Git` • `GitHub Actions` • `GitLab CI/CD`
+`Docker` • `Git` • `GitHub Actions` • `GitLab CI/CD`• `Linux` • `SSH` • `Nginx`
 
 - 🔄 Automated Builds & Deployment\
 Set up CI pipelines and automated workflows. Deploy to Linux servers using SSH, Docker, and reverse proxies.
 
-- 🧪 Testing & QA</br>
+- 🧪 Testing & QA\
 Use unit and integration testing to maintain application stability.
 
-- 📦 Containerization</br>
+- 📦 Containerization\
 Package applications for consistent environments and easier deployment.
 ---
 ## 🌟 Personal Interests & Life
