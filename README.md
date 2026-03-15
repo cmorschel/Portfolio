@@ -10,7 +10,7 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 
 | Project | Stack | Description | Repository |
 |--------|-------|-------------|------------|
-| 🖨 **3D Print Manager** | WinUI 3 + Unity | Manage 3D models, schedule print jobs, track filament and printer profiles. | [coming soon]() |
+| 🖨 **3D Print Manager** | WinUI 3 + EF Core + SQLite | Manage 3D models, schedule print jobs, track filament and printer profiles. | [coming soon]() |
 | 🔥 **Recipe Book App** | MAUI + ASP.NET + EF Core + SQL | Track sourdough & BBQ recipes with timers, ingredients, and notes. Cross-platform for desktop & mobile. | [coming soon]() |
 | 🎸 **Worship Song & Set Manager** | React + ASP.NET + SQL | Plan worship sets, manage chords and lyrics, collaborate. | [coming soon]() |
 
