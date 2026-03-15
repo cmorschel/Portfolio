@@ -2,7 +2,7 @@
 
 I'm a **.NET full-stack developer** building apps that span **desktop, mobile, and web**, blending **technology, creativity, and personal hobbies**.  
 
-💻 **Tech Stack:** `C#` • `ASP.NET` • `React` • `Entity Framework` • `WinUI 3` • `MAUI` • `SQL` • `SQLite` • `Docker`  
+💻 **Tech Stack:** `C#` • `ASP.NET` • `React` • `Entity Framework` • `WinUI 3` • `MAUI` • `Unity` • `SQL` • `SQLite` • `Docker`  
 
 ---
 
@@ -10,9 +10,9 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 
 | Project | Stack | Description | Repository |
 |--------|-------|-------------|------------|
-| 🖨 **3D Print Manager** | WinUI 3 + EF Core + SQLite | Manage 3D models, schedule print jobs, track filament and printer profiles. Perfect desktop showcase. | [coming soon]() |
+| 🖨 **3D Print Manager** | WinUI 3 + Unity | Manage 3D models, schedule print jobs, track filament and printer profiles. | [coming soon]() |
 | 🔥 **Recipe Book App** | MAUI + ASP.NET + EF Core + SQL | Track sourdough & BBQ recipes with timers, ingredients, and notes. Cross-platform for desktop & mobile. | [coming soon]() |
-| 🎸 **Worship Song & Set Manager** | React + ASP.NET + SQL | Plan worship sets, manage chords and lyrics, optionally collaborate. Web app demonstrating full-stack skills. | [coming soon]() |
+| 🎸 **Worship Song & Set Manager** | React + ASP.NET + SQL | Plan worship sets, manage chords and lyrics, collaborate. | [coming soon]() |
 
 ---
 ## 🛠 Skills & Technologies
@@ -20,34 +20,34 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 
 `C#` • `ASP.NET Core` • `React` • `Entity Framework` • `WinUI 3` • `.NET MAUI` • `REST APIs`
 
-- 🏗 Full-Stack Development</br>
+- 🏗 Full-Stack Development\
 Build complete applications including UI, backend APIs, and database integration.
 
-- 📱 Cross-Platform Apps</br>
+- 📱 Cross-Platform Apps\
 Develop apps for Windows, macOS, Android, and iOS using MAUI and modern .NET tooling.
 
-- 🧩 MVVM & Clean Architecture</br>
+- 🧩 MVVM & Clean Architecture\
 Design maintainable, testable codebases with clear separation of concerns.
 ---
 ## 🗄 Databases & Data Management
 
 `SQL Server` • `SQLite`
 
-- 🛢 Database Design</br>
+- 🛢 Database Design\
 Create efficient schemas and implement reliable CRUD operations.
 
-- 💾 Local & Cloud Storage</br>
+- 💾 Local & Cloud Storage\
 Build apps with offline support and scalable backend storage.
 
-- 📊 Data-Driven Features</br>
+- 📊 Data-Driven Features\
 Implement dashboards, statistics, and reporting features.
 ---
 ## ⚙️ DevOps & Tools
 
 `Docker` • `Git` • `GitHub Actions` • `GitLab CI/CD`
 
-- 🔄 Automated Builds & Deployment</br>
-Set up CI pipelines and automated workflows.
+- 🔄 Automated Builds & Deployment\
+Set up CI pipelines and automated workflows. Deploy to Linux servers using SSH, Docker, and reverse proxies.
 
 - 🧪 Testing & QA</br>
 Use unit and integration testing to maintain application stability.
