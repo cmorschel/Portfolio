@@ -2,23 +2,23 @@
 
 I'm a **.NET full-stack developer** building apps that span **desktop, mobile, and web**, blending **technology, creativity, and personal hobbies**.  
 
-💻 **Tech Stack:** `C#` • `ASP.NET` • `React` • `WinUI 3` • `MAUI` • `Blazor` • `Entity Framework` • `SQL` • `SQLite` • `Docker`  
+💻 **Tech Stack:** `ASP.NET` • `React` • `Blazor` • `MAUI` • `WinUI 3` • `Entity Framework` • `SQL` • `SQLite` • `Docker`  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Description | Repository |
+| Project | Stack | Architecture | Description | Repository |
 |--------|-------|-------------|------------|
-| 🖨 **3D Print Manager** | WinUI 3 + EF Core + SQLite | Manage 3D models, schedule print jobs, track filament and printer profiles. | [coming soon]() |
-| 🔥 **Recipe Book App** | MAUI + ASP.NET + EF Core + SQL | Track sourdough & BBQ recipes with timers, ingredients, and notes. Cross-platform for desktop & mobile. | [coming soon]() |
-| 🎸 **Worship Song & Set Manager** | Blazor/React + ASP.NET + SQL | Plan worship sets, manage chords and lyrics, collaborate. Real-time updates with SignalR. | [coming soon]() |
+| 🖨 **3D Print Manager** | WinUI 3 + EF Core + SQLite | VM-First MVVM + DI + IoC | Manage 3D models, schedule print jobs, track filament and printer profiles. | [coming soon]() |
+| 🔥 **Recipe Book App** | MAUI + ASP.NET + EF Core + SQL | MVVM + Layered Architecture + Async Services | Track sourdough & BBQ recipes with timers, ingredients, and notes. Cross-platform for desktop & mobile. | [coming soon]() |
+| 🎸 **Worship Song & Set Manager** | Blazor/React + ASP.NET + SQL | DDD + SignalR + Layered Architecture + CQRS| Plan worship sets, manage chords and lyrics, collaborate. Real-time updates with SignalR. | [coming soon]() |
 
 ---
 ## 🛠 Skills & Technologies
 💻 Programming & Frameworks
 
-`C#` • `ASP.NET Core` • `React` • `Entity Framework` • `WinUI 3` • `.NET MAUI` • `REST APIs`
+`ASP.NET Core` • `React` • `Blazor` • `.NET MAUI` • `WinUI 3` • `Entity Framework` • `REST APIs`
 
 - 🏗 Full-Stack Development\
 Build complete applications including UI, backend APIs, and database integration.
