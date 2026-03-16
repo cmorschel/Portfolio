@@ -9,7 +9,7 @@ I'm a **.NET full-stack developer** building apps that span **desktop, mobile, a
 ## 🚀 Featured Projects
 
 | Project | Stack | Architecture | Description | Repository |
-|--------|-------|-------------|------------|
+|--------|-------|-------------|------------|------------|
 | 🖨 **3D Print Manager** | WinUI 3 + EF Core + SQLite | VM-First MVVM + DI + IoC | Manage 3D models, schedule print jobs, track filament and printer profiles. | [coming soon]() |
 | 🔥 **Recipe Book App** | MAUI + ASP.NET + EF Core + SQL | MVVM + Layered Architecture + Async Services | Track sourdough & BBQ recipes with timers, ingredients, and notes. Cross-platform for desktop & mobile. | [coming soon]() |
 | 🎸 **Worship Song & Set Manager** | Blazor/React + ASP.NET + SQL | DDD + SignalR + Layered Architecture + CQRS| Plan worship sets, manage chords and lyrics, collaborate. Real-time updates with SignalR. | [coming soon]() |
@@ -65,7 +65,7 @@ When I’m not coding, I enjoy building and creating in other areas of life:
 
 - 🖨 Designing and 3D printing useful objects
 
-- 🎸 Leading worship, playing guitar, singing, and writing songs
+- 🎸 Leading worship, playing guitar and bass, singing, and writing songs
 
 -  Proud husband and father of a confident 6-year-old daughter and a superhero 4-year-old son.
 
